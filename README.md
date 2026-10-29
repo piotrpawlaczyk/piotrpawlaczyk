@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Computer Science student at Wrocław University of Science and Technology in Poland.
+
+
+I'm interested in algorithms, solving programming problems, and backend development. I enjoy tackling challenges that require logical thinking and finding efficient solutions.
 <!--
 **piotrpawlaczyk/piotrpawlaczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
